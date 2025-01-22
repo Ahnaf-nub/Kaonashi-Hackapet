@@ -1,1 +1,2 @@
 # Kaonashi-Hackapet
+A game where the main character (Kaonashi) is inspired by the anime "Spirited Away". The health bar is represented by three rice balls, which decrease as the character moves to avoid falling kunai (a weapon). The health bar restores when the character takes a rest. In a future update, plan to add a dht11 sensor so that If the character feels too cold or hot, the game will display some sort of animations to reflect their condition!
